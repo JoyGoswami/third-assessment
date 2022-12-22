@@ -1,6 +1,6 @@
 # Assessment Project for SEIP
 
-This Project is designed using Bootstrap.
+This Project is designed using Bootstrap. [Live Link](https://joygoswami.github.io/third-assessment/)
 
 ## Author
 
@@ -14,7 +14,7 @@ This Project is designed using Bootstrap.
 
 ## 🔗 Links
 
-# [Live Link](https://joygoswami.github.io/JoyGoswami__0400036694/)
+# [Live Link](https://joygoswami.github.io/third-assessment/)
 
 ## Screenshots
 
