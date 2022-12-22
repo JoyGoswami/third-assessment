@@ -1,6 +1,6 @@
 # Assessment Project for SEIP
 
-This Project is designed using only flex. The website is not responsive. (1366 \* 768) resolution is recommended for better experience.
+This Project is designed using Bootstrap.
 
 ## Author
 
@@ -10,7 +10,7 @@ This Project is designed using only flex. The website is not responsive. (1366 \
 
 - HTML
 - CSS
-  - flex
+  - CSS FRAMEWORK - BOOTSTRAP
 
 ## 🔗 Links
 
