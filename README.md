@@ -18,4 +18,10 @@ This Project is designed using Bootstrap.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/JoyGoswami/JoyGoswami__0400036694/blob/main/assets/full-screenshot/ss.png?raw=true)
+### PC View
+
+![App Screenshot](https://github.com/JoyGoswami/third-assessment/blob/main/assets/full-screenshot/pcss.png?raw=true)
+
+### Mobile View
+
+![App Screenshot](https://github.com/JoyGoswami/third-assessment/blob/main/assets/full-screenshot/mobiless.png?raw=true)
