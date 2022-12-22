@@ -70,7 +70,7 @@ header .nav-link:hover {
   color: var(--font-hover-color);
 }
 header .banner-content {
-  padding: 10rem 0;
+  padding: 9rem 0;
 }
 header .banner-content h3 {
   color: var(--primary-font-color);
@@ -106,6 +106,7 @@ header .banner-content p {
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
+  margin-bottom: 10px;
 }
 .header-content-btn .btn:hover {
   background-color: var(--font-hover-color);
@@ -415,3 +416,8 @@ footer .nav-link i {
   color: #e6ebff;
 }
 /* side nav bar */
+@media (max-width: 456px) {
+  header .banner-content {
+    padding: 3rem 0;
+  }
+}
