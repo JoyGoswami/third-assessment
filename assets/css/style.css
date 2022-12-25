@@ -421,7 +421,33 @@ footer .nav-link i {
     padding: 3rem 0;
   }
 }
-
+@media (max-width: 992px) {
+  header .navbar-nav {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* width: calc(100% - 0.75rem); */
+    /* width: calc(100% - 18%); */
+    width: calc(720px - 24px);
+  }
+  header .nav-link {
+    padding: 10px 10px;
+    border-bottom: 1px solid #fff;
+  }
+}
+@media (max-width: 772px) {
+  header .navbar-nav {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: calc(540px - 18px);
+  }
+}
+@media (max-width: 576px) {
+  header .navbar-nav {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: calc(100% - 0.75rem);
+  }
+}
 /* modal */
 .project .modal.show .modal-dialog {
   transform: none;
