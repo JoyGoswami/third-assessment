@@ -421,3 +421,28 @@ footer .nav-link i {
     padding: 3rem 0;
   }
 }
+
+/* modal */
+.project .modal.show .modal-dialog {
+  transform: none;
+  background: #fff;
+  border-radius: 5px;
+  max-width: 500px;
+  position: relative;
+  margin: 8em auto;
+  /* padding: 3em 1em; */
+  padding: 0em 1em 3em 1em;
+}
+.project .modal-header {
+  border: 0;
+}
+.project .modal-content {
+  border: none;
+}
+.project .modal-body img {
+  width: 100%;
+}
+.project .modal-footer {
+  border: none;
+}
+/* modal */
